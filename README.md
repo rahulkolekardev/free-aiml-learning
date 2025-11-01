@@ -1,5 +1,7 @@
 <h1 align="center">Free AI/ML Curriculum · Zero → Production</h1>
-
+<p align="center">
+  <img src="hero.png" alt="Free AI/ML Curriculum · Zero → Production" width="960" />
+</p>
 <p align="center">
   Master the fundamentals. build real systems. ship with confidence.<br/>
   University-grade depth. industry-grade pragmatism. 100% free.
